@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorBis, I'm a UX Engineer based in Mexico City, currently studying Computer Science at National Autonomous University of Mexico. 
 - 👀 I’m interested in the design and development of software that impacts the life of people.
-- 📫 How to reach me ✉️ victor98@ciencias.unam.mx and 👨‍💻 victor-molina.com
+- 📫 How to reach me ✉️ victor98@ciencias.unam.mx and 👨‍💻 www.victor-molina.com
 
 <!---
 VictorBis/VictorBis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
