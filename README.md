@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorBis, I'm a Product Designer based in Mexico City, currently studying Computer Science at National Autonomous University of Mexico. 
+- 👋 Hi, I’m @VictorBis, a Product Designer based in Mexico City, currently studying Computer Science at National Autonomous University of Mexico. 
 - 👀 I’m interested in the design and development of software that impacts the life of people.
 - 📫 How to reach me ✉️ victor98@ciencias.unam.mx and 👨‍💻 www.victor-molina.com
 
